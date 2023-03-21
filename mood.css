@@ -1,0 +1,22 @@
+body{
+    background-color: #a5cfdb;
+}
+
+section{
+	display: flex;
+    flex-direction: column;
+    margin: 0em 7em
+}
+h1{
+	display: flex;
+    font-size: xx-large;
+    color: #ed5234;
+}
+p{
+	text-align: justify;
+    color: #575656;
+}
+h3{
+	font-size: x-large;
+    color: orange;
+}

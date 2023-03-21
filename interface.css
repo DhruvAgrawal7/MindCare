@@ -1,0 +1,30 @@
+#start_page{
+	display: flex;
+	flex-direction: column;
+}
+#issues{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+#start_page_heading{
+	display: flex;
+	justify-content: center;
+}
+#disorder{
+	width: 200px;
+    height: 150px;
+    margin: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 10px 2px grey;
+    border-radius: 15px;
+}
+a{
+	text-decoration: none;
+	color: grey;
+}
+a:active{
+	color: grey;
+}
